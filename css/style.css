@@ -13,7 +13,7 @@ h1
 section
 {
     color: var(--favoritecolor);
-    float: right;
+    float: center;
 }
 p
 {
