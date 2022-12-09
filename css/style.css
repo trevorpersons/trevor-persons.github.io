@@ -8,6 +8,7 @@ h1
     color: var(--favoritecolor);
     background-color: rgb(40,0,50);
     font-size: 38pt;
+    font-style: serif;
 }
 section
 {
