@@ -1,18 +1,18 @@
 :root
 {
-    --favoritecolor: rgb(233, 231, 255);
+    background-color: rgb(233, 231, 255);
 }
 h1
 {
     text-align: center;
-    color: var(--favoritecolor);
+    color: var(rgb(74, 62, 201));
     background-color: rgb(40,0,50);
     font-size: 38pt;
     font-style: serif;
 }
 section
 {
-    color: var(--favoritecolor);
+    color: var(rgb(59, 50, 156));
     float: center;
 }
 p
@@ -21,21 +21,17 @@ p
     font-size: 16pt;
     margin:0 10px 10px
 }
-#mainpic
-{
-    border-radius: 50%;
-}
 div.button
 {
     text-align: center;
 }
-div#navigation
+#navigation
 {background:#81a1bf; float:left; width:150px; margin-left:-700px;}
-div#navigation
+#navigation
 ul{margin:15px 0; padding:0; list-style-type:none;}
-div#navigation
+#navigation
 li{margin-bottom:5px;}
-div#container
+#container
 {text-align:center;}
-div#extra{float:left;width:150px;margin-left:-150px;}
-div#footer{clear:left;width:100%;}
+#extra{float:left;width:150px;margin-left:-150px;}
+#footer{clear:left;width:100%;}
